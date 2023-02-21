@@ -41,7 +41,7 @@ export default function UpdateUsers() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center bg-gray-100 py-12 px-6 lg:px-8 h-screen">
+    <div className="flex flex-col items-center bg-gray-100 py-12 px-6 lg:px-8 h-screen">
       <img
         className="mx-auto h-16 w-auto"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
